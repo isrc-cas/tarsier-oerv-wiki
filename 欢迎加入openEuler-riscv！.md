@@ -38,9 +38,11 @@
 
 1. 执行github issue [#51](https://github.com/plctlab/openEuler-riscv/issues/51) 任务；新建一个issue记录过程和结果；
 
-1. 执行github issue [#53](https://github.com/plctlab/openEuler-riscv/issues/53) 任务；新建一个issue记录过程和结果；
+1. 执行github issue [#53](https://github.com/plctlab/openEuler-riscv/issues/53) 任务；新建一个issue记录过程和结果；（任务同[#32](https://github.com/plctlab/openEuler-riscv/issues/32)）
 
 
+1. （可选）执行github issue [#12](https://github.com/plctlab/openEuler-riscv/issues/12) 任务；新建一个issue记录过程和结果；
+    > 针对本项目而言，本地构建建议osc方式，但是rpmbuild可以作为一个知识进行学习和练习
 
 
 
