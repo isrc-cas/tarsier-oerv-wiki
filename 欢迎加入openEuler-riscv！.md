@@ -15,7 +15,7 @@
 
 补充：项目任务所需知识
 
-分析和解决包构建错误：（参考B站、QQ群文件视频资料）
+分析和解决包构建错误：（参考B站、QQ群文件视频资料,详情详见[项目入门资料](https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/welcome.md)）
 - OBS构建工具的原理、使用方法
     - obs在线构建：（_这个掌握之后，就可以先尝试做点小任务了_）
     - osc使用
