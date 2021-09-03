@@ -26,6 +26,8 @@
 
 其它基础知识：
 - linux基础
+  > 吴老师推荐：https://www.bilibili.com/video/BV1H7411K7pZ
+
 - git的使用
 - gitee、github使用，通过issue查看任务，记录执行过程和反馈问题
 
