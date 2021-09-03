@@ -32,7 +32,13 @@
 - gitee、github使用，通过issue查看任务，记录执行过程和反馈问题
 
 
+---
+新人实践练习（针对工作任务是解决构建失败的包的同学而言，请按照如下顺序逐步练习并上手）：
+1. 执行github issue [#52](https://github.com/plctlab/openEuler-riscv/issues/52)任务；新建一个issue记录过程和结果；
 
+1. 执行github issue [#51](https://github.com/plctlab/openEuler-riscv/issues/51) 任务；新建一个issue记录过程和结果；
+
+1. 执行github issue [#53](https://github.com/plctlab/openEuler-riscv/issues/53) 任务；新建一个issue记录过程和结果；
 
 
 
