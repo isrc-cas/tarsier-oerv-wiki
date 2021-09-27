@@ -3,13 +3,14 @@
 
 2. 学习本repo中的文档、wiki，快速了解管理要求；参考：[项目组日常管理说明](https://github.com/plctlab/openEuler-riscv/wiki/%E9%A1%B9%E7%9B%AE%E7%BB%84%E6%97%A5%E5%B8%B8%E7%AE%A1%E7%90%86%E8%AF%B4%E6%98%8E) 。
 
-3. 完成github注册，修改github name为姓名拼音全拼。完成gitee注册；
+3. 完成github注册，修改github name为姓名拼音全拼。
+
+4. 完成gitee注册；并完成CLA的签署： https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/sign-gitee-CLA.md
 
 4. fork openEuler-riscv（github）到本地，修改members.md文档，将自己的GitHubID and giteeID添加到文档中，并发一个 pull request 提交修改； 
    > 不懂githubId的，参考[issue:11](https://github.com/plctlab/openEuler-riscv/issues/11)
 
 5. 学习[项目入门资料](https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/welcome.md)，学习文档、视频，快速了解项目背景、目标、任务；
-
 
 ---
 
