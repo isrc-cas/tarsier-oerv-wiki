@@ -7,11 +7,12 @@
 
 4. 完成gitee注册；并完成CLA的签署： https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/sign-gitee-CLA.md
 
-4. fork openEuler-riscv（github）到本地，修改members.md文档，将自己的GitHubID and giteeID添加到文档中，并发一个 pull request 提交修改； 
+5. fork openEuler-riscv（github）到本地，修改members.md文档，将自己的GitHubID and giteeID添加到文档中，并发一个 pull request 提交修改； 
    > 不懂githubId的，参考[issue:11](https://github.com/plctlab/openEuler-riscv/issues/11)
 
-5. 学习[项目入门资料](https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/welcome.md)，学习文档、视频，快速了解项目背景、目标、任务；
+6. 学习[项目入门资料](https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/welcome.md)，学习文档、视频，快速了解项目背景、目标、任务；
 
+7. 了解工作流程：https://github.com/plctlab/openEuler-riscv/blob/main/quicklystartbuild/workflow-for-build-a-package.md
 ---
 
 补充：项目任务所需知识
